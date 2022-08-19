@@ -1,4 +1,4 @@
-#This video was created using Remotion, a ReactJS library.
+# This video was created using Remotion, a ReactJS library.
 
 Remotion: https://www.remotion.dev/
 
